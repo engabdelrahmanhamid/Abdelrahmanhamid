@@ -19,7 +19,7 @@ export default function ContactSection() {
               Book a Discovery Call
             </a>
             <a
-              href="mailto:you@example.com"
+              href="eng.abdelrahman.hamid@gmail.com"
               className="rounded-full border border-white px-5 py-3 text-sm font-semibold text-white transition hover:-translate-y-0.5 hover:bg-white hover:text-black"
             >
               Contact Me
@@ -32,19 +32,19 @@ export default function ContactSection() {
         <div className="mx-auto flex max-w-7xl flex-col items-center justify-between gap-4 sm:flex-row">
           <p className="text-xl font-black">Abdelrahman.</p>
           <div className="flex items-center gap-4 text-black/70">
-            <a href="https://x.com/your-username" target="_blank" rel="noreferrer noopener" aria-label="X">
+            {/* <a href="https://x.com/your-username" target="_blank" rel="noreferrer noopener" aria-label="X">
               <FaXTwitter size={16} />
             </a>
             <a href="https://linkedin.com/in/your-username" target="_blank" rel="noreferrer noopener" aria-label="LinkedIn">
               <FaLinkedinIn size={16} />
-            </a>
-            <a href="mailto:you@example.com" aria-label="Email">
+            </a> */}
+            <a href="eng.abdelrahman.hamid@gmail.com" aria-label="Email">
               <FaEnvelope size={16} />
             </a>
-            <a href="https://instagram.com/your-username" target="_blank" rel="noreferrer noopener" aria-label="Instagram">
+            <a href="https://instagram.com/eng.d7mmy" target="_blank" rel="noreferrer noopener" aria-label="Instagram">
               <FaInstagram size={16} />
             </a>
-            <a href="https://wa.me/201000000000" target="_blank" rel="noreferrer noopener" aria-label="WhatsApp">
+            <a href="https://wa.me/966564029887" target="_blank" rel="noreferrer noopener" aria-label="WhatsApp">
               <FaWhatsapp size={16} />
             </a>
           </div>
